@@ -1,0 +1,25 @@
+{
+    "shippingInfo":{
+        "address":"123 Main St",
+        "city":"Kolkata",
+        "phoneNo":"456789",
+        "state":"WEST BENGAL",
+        "postalCode":"12300",
+        "country":"INDIA"
+    },
+    "orderItems":[
+        {
+            "name":"ProTestproduct",
+            "price":899,
+            "quantity":1,
+            "image":"https://res.cloudinary.com/df4hyznzc/image/upload/v1656773148/products/xtscvywoieg9070offp4.png",
+            "product":"62b18653c9d267e7b8cb28bd"
+        }
+    ],
+    "paymentInfo":{
+        "id":"teststring"
+    },
+    "taxAmount":0,
+    "shippingAmount":0,
+    "totalAmount":899
+}
